@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to Bibhor's <a href="https://nextjs.org">Next.js!</a> Website on AWS S3 Bucket!
         </h1>
 
         <p className={styles.description}>
